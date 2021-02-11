@@ -20,7 +20,7 @@ order: 4
 <br>
 
 ## <mark>경력</mark>
-- ML Researcher @<a href="watcha.com">WATCHA</a> (Jan. 20 ~)
+- ML Researcher @<a href="https://watcha.com/">WATCHA</a> (Jan. 20 ~)
 
 <br>
 
