@@ -20,12 +20,12 @@ order: 4
 <br>
 
 ## <mark>경력</mark>
-- ML Researcher @<a href="https://watcha.com/">WATCHA</a> (Jan. 20 ~)
+- ML Researcher @<a href="https://watcha.com/" target="_blank">WATCHA</a> (Jan. 20 ~)
 
 <br>
 
 ## <mark>연락처</mark>
-- Github: https://github.com/ZiminPark
+- Github: <a href="https://github.com/ZiminPark" target="_blank">https://github.com/ZiminPark </a>
 - Mail: kpdpkp@gmail.com
-- Facebook: https://www.facebook.com/ziminii
+- Facebook: <a href="https://www.facebook.com/ziminii" target="_blank">https://www.facebook.com/ziminii </a>
 
